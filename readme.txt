@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 New commit dev.
 Bug fixing.
+user 1 commit.
