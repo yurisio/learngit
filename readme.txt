@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 New commit dev.
 Bug fixing.
 user 1 commit.
+Zoe commit.
